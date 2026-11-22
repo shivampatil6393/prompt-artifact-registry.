@@ -130,6 +130,4 @@ vercel.json          Deployment configuration
 .env.example         Environment template
 ```
 
-## License
 
-No license is granted by default. Add a LICENSE file after choosing appropriate terms and confirming rights to all included code.
